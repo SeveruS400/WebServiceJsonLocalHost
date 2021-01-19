@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\src",
+    "\\app\\src\\androidTest",
+    "\\app\\src\\androidTest\\java",
+    "\\app\\src\\androidTest\\java\\com",
+    "\\app\\src\\androidTest\\java\\com\\teknodate",
+    "\\app\\src\\androidTest\\java\\com\\teknodate\\webservicejsonlocalhost",
+    "\\app\\src\\main",
+    "\\app\\src\\main\\java",
+    "\\app\\src\\main\\java\\com",
+    "\\app\\src\\main\\java\\com\\teknodate",
+    "\\app\\src\\main\\java\\com\\teknodate\\webservicejsonlocalhost"
+  ],
+  "SelectedNode": "\\app\\src\\main\\java\\com\\teknodate\\webservicejsonlocalhost\\MainActivity.java",
+  "PreviewInSolutionExplorer": false
+}
